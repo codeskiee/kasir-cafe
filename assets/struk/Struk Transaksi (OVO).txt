@@ -1,0 +1,25 @@
+           Cafe Bongsky
+     Jl.Kembangan Utara No.9,
+    Jakarta Barat, Kec.Kembangan
+        Jakarta 11610
+                             
+           TABLE:2        
+Customer:Steven	     Id Kasir:10
+-------------------------------
+-------------------------------
+1  Ice Taro		 13000
+1  Chocolate		 15000
+1  Cappucino		 12000
+1  Roti Bakar		 12000
+-------------------------------
+-------------------------------
+Subtotal 		 52000
+Ppn 			 5200
+-------------------------------
+TOTAL 			 57200
+Cash 			 57200
+Kembalian 		 0
+                             
+          Via ovo 
+<-----2024/05/31 18:43:37----->
+         Terima Kasih

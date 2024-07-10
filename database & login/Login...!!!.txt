@@ -1,0 +1,23 @@
+Sistem Kasir Coffee Shop Bongsky by Rian Saputra
+
+Sistem Password _ MD5
+
+Admin
+user: meiranda
+pas: 19220798
+
+user: rian saputra
+pas: 19220838
+
+Operator
+user: steven wijaya
+pas: 19220792
+
+user: muhammad aziz fadillah 
+pas: 19220820
+
+user: leonardus ejo
+pas: 19221613
+
+
+Source Boostrap SB - Admin

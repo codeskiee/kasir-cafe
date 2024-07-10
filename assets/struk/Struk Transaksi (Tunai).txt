@@ -1,0 +1,23 @@
+           Cafe Bongsky
+     Jl.Kembangan Utara No.9,
+    Jakarta Barat, Kec.Kembangan
+        Jakarta 11610
+                             
+           TABLE:8        
+Customer:ridwan	     Id Kasir:10
+-------------------------------
+-------------------------------
+1  Chocolate		 15000
+1  French Fries		 10000
+-------------------------------
+-------------------------------
+Subtotal 		 25000
+Ppn 			 2500
+-------------------------------
+TOTAL 			 27500
+Cash 			 30000
+Kembalian 		 2500
+                             
+          Via tunai 
+<-----2024/06/24 20:42:09----->
+         Terima Kasih
